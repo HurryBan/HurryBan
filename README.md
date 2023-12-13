@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @HurryBan
 - 👀 I’m interested in Chemistry
 - 🌱 I’m currently learning Mechine Learning
-- 💞️ I’m looking to collaborate on Chemical Reaction Prediction
 - 📫 How to reach me bhzemoleho@outlook.com
 
 <!---
